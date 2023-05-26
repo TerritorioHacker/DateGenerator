@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Creado por F1r0x para Territorio Hacker
 # Creación de diccionarios de fechas de 8 dígitos en formato dd/mm/yyyy --> ddmmyyyy
 
 # SINTAXIS: ./dateGenerator.sh AñoInicial AñoFinal
